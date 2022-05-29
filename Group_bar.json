@@ -1,0 +1,44 @@
+[
+    { "key":"Hispanic", "values":
+                                 [
+                                   {"grpName":"Total Cases (%)", "grpValue":65},
+                                   {"grpName":"Total Death (%)","grpValue":4},
+                                   {"grpName":"Recovery (%)","grpValue":96}
+                                 ]
+    },
+    { "key": "NH Asian", "values":
+                                 [
+                                   {"grpName":"Total Cases (%)", "grpValue":6},
+                                   {"grpName":"Total Death (%)", "grpValue":93},
+                                   {"grpName":"Recovery (%)", "grpValue":7}
+                                 ]
+    },
+    { "key": "NH Black", "values":
+                                 [
+                                   {"grpName":"Total Cases (%)", "grpValue":70},
+                                   {"grpName":"Total Death (%)", "grpValue":11},
+                                   {"grpName":"Recovery (%)", "grpValue":89}
+                                 ]
+    },
+    { "key": "NH White", "values":
+                                 [
+                                   {"grpName":"Total Cases (%)","grpValue":30},
+                                   {"grpName":"Total Death (%)", "grpValue":20},
+                                   {"grpName":"Recovery (%)", "grpValue":80}
+                                 ]
+    },
+    { "key": "NH American Indian", "values":
+                                 [
+                                   {"grpName":"Total Cases (%)", "grpValue":20},
+                                   {"grpName":"Total Death (%)", "grpValue":4},
+                                   {"grpName":"Recovery (%)", "grpValue":96}
+                                 ]
+    },
+    { "key": "Pacific Islander", "values":
+                                 [
+                                   {"grpName":"Total Cases (%)", "grpValue":17},
+                                   {"grpName":"Total Death (%)", "grpValue":7},
+                                   {"grpName":"Recovery (%)", "grpValue":93}
+                                 ]
+    }                                                                                
+     ]
